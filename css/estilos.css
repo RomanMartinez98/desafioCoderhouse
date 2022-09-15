@@ -8,7 +8,6 @@
     "main"
     "footer"
     ;
-
 }
 
 .header{
@@ -212,12 +211,6 @@ p{
    
 }
 
-.footer__contacto:hover{
-    color: darkmagenta;
-    font-size: 200%;
-
-
-}
 
 
     
