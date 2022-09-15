@@ -207,9 +207,12 @@ p{
     }
     .header__nav{
         justify-self: center;
-    }
-   
+    }   
 }
+
+.footer__contacto:hover{
+    color: darkmagenta;
+    font-size: 200%;}
 
 
 
